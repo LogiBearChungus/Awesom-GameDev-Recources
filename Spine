@@ -1,3 +1,8 @@
-A specialized 2D skeletal animation tool that integrates with most engines. It’s often used to create more fluid character animations by rigging and animating 2D characters using bones.
+Focuses on 2D skeletal animations, allowing more fluid movements than frame-based animations.
+Integrates with Unity, Unreal, and many other engines through runtime libraries.
+Reduces file sizes compared to frame-based animations by reusing skeletal assets.
+Allows for skin swapping and animation blending to create varied character animations.
+Offers powerful IK (inverse kinematics) and mesh deformation tools.
+A paid tool with a free trial available for evaluation.
 
 Website: http://esotericsoftware.com
