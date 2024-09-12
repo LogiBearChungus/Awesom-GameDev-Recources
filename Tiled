@@ -1,3 +1,8 @@
-Tiled is a free, open-source map editor primarily for 2D games. It supports orthogonal, isometric, and hexagonal maps, making it a great tool for developers working on tile-based games.
+Supports a wide variety of map formats: orthogonal, isometric, and hexagonal.
+Features an intuitive user interface for easy tile placement and design.
+Highly flexible with JSON, Lua, and XML export options for easy integration into custom engines.
+Open-source with an active community and plugin support.
+Compatible with a variety of game engines, including Godot, Unity, and Cocos.
+Supports tile animations and terrain blending for more dynamic levels.
 
 Website: https://www.mapeditor.org
