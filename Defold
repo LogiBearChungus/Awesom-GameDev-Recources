@@ -1,3 +1,8 @@
-A cross-platform, lightweight engine for 2D games, Defold offers a unique architecture focused on small game development teams. It’s particularly favored for mobile game development and is fully open-source.
+A lightweight engine that’s optimized for performance, especially on mobile.
+Lua scripting language with minimal setup for fast iteration.
+Collaborative cloud-based editor to streamline team development.
+Integrated with a range of popular platforms and monetization services.
+Excellent performance for small teams or solo developers.
+Offers detailed analytics tools for game performance monitoring.
 
 Website: https://defold.com
