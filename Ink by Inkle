@@ -1,3 +1,8 @@
-Ink is a scripting language for writing interactive narrative content. Developed by the studio behind 80 Days and Heaven’s Vault, it’s designed to make branching dialogues and storylines more efficient and maintainable.
+Focuses on creating interactive branching narratives with simple syntax.
+Integrates with game engines like Unity, allowing stories to be easily implemented.
+Designed for non-linear storytelling and game narrative scripting.
+Supports features like variables, conditions, and functions to manage complex stories.
+Allows easy localization and translation of stories for global distribution.
+Frequently used by developers of narrative-driven games.
 
 Website: https://www.inklestudios.com/ink
