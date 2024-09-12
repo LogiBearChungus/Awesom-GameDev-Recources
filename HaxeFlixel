@@ -1,3 +1,8 @@
-A 2D game development library built on the Haxe programming language, HaxeFlixel provides a solid framework for creating fast and lightweight games. It’s especially popular for indie developers looking for an alternative to more resource-heavy engines.
+Based on the Haxe programming language, making it cross-platform.
+Ideal for 2D games, especially retro-style pixel art games.
+Provides tools for physics, collisions, input, and more.
+Open-source and has a large library of pre-made assets and modules.
+Supports cross-platform development (HTML5, Windows, macOS, Android, iOS).
+Lightweight, perfect for small teams and indie developers.
 
 Website: https://haxeflixel.com
