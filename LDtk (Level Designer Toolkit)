@@ -1,8 +1,0 @@
-Simplifies the creation of large, grid-based 2D worlds.
-Integrates seamlessly with game engines such as Unity and Godot.
-Supports advanced features like auto-tiling, layers, and multiple worlds.
-Optimized for fast iteration and prototyping.
-Offers an intuitive UI for designers and a JSON export format for programmers.
-Developed by Sébastien Bénard, the lead developer of Dead Cells.
-
-Website: https://ldtk.io
